@@ -10,10 +10,11 @@ profile = {
     'LinkedIn': 'https://www.linkedin.com/in/ooijunhao',
     'Github': 'https://github.com/OoiJunHao',
     'Interests': [
-      'FinTech',
-      'App Development',
-      'Travelling'
-    ]            
+        'FinTech',
+        'App Development',
+        'Travelling'
+        ]
+    }
 ```
 
 <!--
